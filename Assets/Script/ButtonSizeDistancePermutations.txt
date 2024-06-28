@@ -1,0 +1,27 @@
+-- Panel - 1
+Width: Small
+Distance: Small
+
+-- Panel - 2
+Width: Large
+Distance: Large
+
+-- Panel - 3
+Width: Medium
+Distance: Medium
+
+-- Panel - 4
+Width: Small
+Distance: Large
+
+-- Panel - 5
+Width: Large
+Distance: Small
+
+-- Panel - 6
+Width: Medium
+Distance: Large
+
+-- Panel - 7
+Width: Large
+Distance: Medium

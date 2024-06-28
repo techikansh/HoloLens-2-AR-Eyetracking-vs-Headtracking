@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="Unity.TextMeshPro" ignoreIfMissing="1">
+		<type fullname="TMPro.TMP_Text">
+			<method name="set_fontSize"/>
+			<method name="set_fontSize"/>
+			<method name="set_fontSize"/>
+			<method name="set_fontSize"/>
+			<method name="set_fontSize"/>
+			<method name="set_fontSize"/>
+			<method name="set_fontSize"/>
+			<method name="set_fontSize"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>
